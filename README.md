@@ -64,17 +64,17 @@ Both dashboards feature KPIs, visualizations, and *pop-out slicer menus* for int
 ### 🔹 Customer Demographic & Behavior Dashboard
 
 - **Which age group spends the most on average?**
-👉 Customers aged *36–45* have the highest average spend, while the youngest group *(18–25)* spends the least. This highlights the middle-aged group as the most valuable segment for targeted campaigns.
+👉 Customers aged *36–45* have the highest average spend, while the youngest group *(18–25)* spends the least. This highlights the middle-aged group as the most valuable segment for targeted campaigns.![spend vs average](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(248).png)
 -	**Is there a difference in spending behavior between male and female customers?**
-👉 Yes. Males account for *₦6.50k (54.2%)* of spend, while females spend *₦5.49k (45.8%)*. This indicates men contribute slightly more to overall revenue, though both genders remain important.
+👉 Yes. Males account for *₦6.50k (54.2%)* of spend, while females spend *₦5.49k (45.8%)*. This indicates men contribute slightly more to overall revenue, though both genders remain important.![spending vs gender](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(249).png) 
 -	**Which location has the highest number of loyal (non-churn) customers?**
-👉 Kano leads with *22* loyal customers, followed by Ibadan with *21*. Loyalty programs can be strengthened in these high-performing cities to increase retention.
+👉 Kano leads with *22* loyal customers, followed by Ibadan with *21*. Loyalty programs can be strengthened in these high-performing cities to increase retention.![loyal vs location](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(250).png) 
 -	**How does purchase frequency relate to customer satisfaction (rating)?**
-👉 Customers who purchase *4–6* times per month rate their experience higher *(3.18)* compared to those purchasing only once per month *(2.7)*. This suggests that engaged customers are more satisfied.
+👉 Customers who purchase *4–6* times per month rate their experience higher *(3.18)* compared to those purchasing only once per month *(2.7)*. This suggests that engaged customers are more satisfied.![purchase vs rating](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(251).png) 
 -	**What percentage of subscribed customers churn vs non-subscribed customers?**
-👉 Among churned customers, *50.51%* were non-subscribers while *49.49%* were subscribers. This shows subscription alone does not prevent churn, highlighting a need to improve subscription value.
+👉 Among churned customers, *50.51%* were non-subscribers while *49.49%* were subscribers. This shows subscription alone does not prevent churn, highlighting a need to improve subscription value.![churn vs subscribe](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(252).png) 
 - **Which segment of customers (loyal, churned) brings the highest revenue?**
-👉 Churned customers generate *₦23k (51%)*, slightly more than loyal customers *₦22k (48.9%)*. This indicates that high-value customers are also at risk of leaving, requiring urgent retention strategies.
+👉 Churned customers generate *₦23k (51%)*, slightly more than loyal customers *₦22k (48.9%)*. This indicates that high-value customers are also at risk of leaving, requiring urgent retention strategies.![churn vs revenue](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(253).png) 
 
 ⸻
 
