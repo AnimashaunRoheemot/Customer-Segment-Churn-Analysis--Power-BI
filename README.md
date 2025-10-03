@@ -94,12 +94,11 @@ Both dashboards feature KPIs, visualizations, and *pop-out slicer menus* for int
 ## 📊 Visualizations  
 
 ### Customer Demographic & Behavior Dashboard  
-![Demographics Dashboard](images/demographic_dashboard.png)  
+![Demographics Dashboard](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(259).png)  
 
 ### Product & Sentiment Dashboard  
-![Product Sentiment Dashboard](images/product_sentiment_dashboard.png)  
-
-(Replace the image paths with your actual screenshots from Power BI exports)  
+![Product Sentiment Dashboard](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(264).png)  
+  
 
 ---
 
