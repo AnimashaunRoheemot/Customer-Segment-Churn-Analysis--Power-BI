@@ -39,7 +39,8 @@ Both dashboards feature KPIs, visualizations, and *pop-out slicer menus* for int
    - Validated data types  
 
 2. *Data Modeling*  
-   - Created dimensions for *Gender, Product, Location*  
+   - Created dimensions for *Gender, Product, Location*
+     ![spend vs average]()
    - Established relationships between fact and dimension tables  
 
 3. *Measures Created in DAX*  
@@ -97,8 +98,7 @@ Both dashboards feature KPIs, visualizations, and *pop-out slicer menus* for int
 ![Demographics Dashboard](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(259).png)  
 
 ### Product & Sentiment Dashboard  
-![Product Sentiment Dashboard](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(264).png)  
-  
+![Product Sentiment Dashboard](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(260).png)
 
 ---
 
