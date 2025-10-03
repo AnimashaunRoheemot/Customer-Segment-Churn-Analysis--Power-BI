@@ -80,15 +80,15 @@ Both dashboards feature KPIs, visualizations, and *pop-out slicer menus* for int
 
 ### 🔹 Product & Sentiment Dashboard
 -	**What is the average rating for each product category (Abaya, Scarf, Accessories)?**
-👉 Accessories *(33.91%)* slightly outperform Abayas *(33.79%)* and Scarves *(32.3%)*. Ratings are fairly balanced, but accessories lead in customer satisfaction.
+👉 Accessories *(33.91%)* slightly outperform Abayas *(33.79%)* and Scarves *(32.3%)*. Ratings are fairly balanced, but accessories lead in customer satisfaction.![product vs rating](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(254).png)  
 -	**Which product category has the highest churn rate?**
-👉Accessories *(54.55%)* show the highest churn rate, suggesting issues in quality or customer perception despite high ratings.
+👉Accessories *(54.55%)* show the highest churn rate, suggesting issues in quality or customer perception despite high ratings.![product vs churnrate](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(255).png)  
 -	**Are customers with higher ratings more likely to stay subscribed?**
-👉 Surprisingly, no. Among customers giving the highest rating (5), *17* were subscribers while *19* were non-subscribers. High satisfaction does not directly lead to subscription.
+👉 Surprisingly, no. Among customers giving the highest rating (5), *17* were subscribers while *19* were non-subscribers. High satisfaction does not directly lead to subscription.![subcribe vs rating](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(264).png)  
 - **Is there a correlation between average spend and review rating?**
-👉 A negative relationship was observed. Customers with lower ratings spent *₦2.7k* on average, compared to ₦2.2k for higher ratings. Dissatisfied customers often spend more before churning.
+👉 A negative relationship was observed. Customers with lower ratings spent *₦2.7k* on average, compared to ₦2.2k for higher ratings. Dissatisfied customers often spend more before churning.![avg spending vs rating](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(257).png)  
 - **What are the common keywords in churn-related reviews?**
-👉 Sentiment analysis revealed “not worth the price” as the most frequent churn driver, linked to *15* customers. Product quality concerns remain the top issue behind churn.
+👉 Sentiment analysis revealed “not worth the price” as the most frequent churn driver, linked to *15* customers. Product quality concerns remain the top issue behind churn.![review](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(258).png)  
 ---
 
 ## 📊 Visualizations  
