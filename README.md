@@ -40,7 +40,7 @@ Both dashboards feature KPIs, visualizations, and *pop-out slicer menus* for int
 
 2. *Data Modeling*  
    - Created dimensions for *Gender, Product, Location*
-     ![spend vs average]()
+     ![spend vs average](https://github.com/AnimashaunRoheemot/Customer-Segment-Churn-Analysis--Power-BI/blob/main/Screenshot%20(261).png)
    - Established relationships between fact and dimension tables  
 
 3. *Measures Created in DAX*  
@@ -141,6 +141,6 @@ Businesses should:
 *Roheemah Animashaun*  
 - Aspiring Data Analyst | Business Intelligence Enthusiast  
 - Tools: Power BI, Excel, SQL, Python  
-- [LinkedIn Profile](#) | [GitHub Portfolio](#)  
+- [LinkedIn](https://www.linkedin.com/in/animashaun-roheemot)  
 
 ---
