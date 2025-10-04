@@ -138,7 +138,7 @@ Businesses should:
 ---
 
 ## ✍ Author  
-*Roheemah Animashaun*  
+*Animashaun Roheemot*  
 - Aspiring Data Analyst | Business Intelligence Enthusiast  
 - Tools: Power BI, Excel, SQL, Python  
 - [LinkedIn](https://www.linkedin.com/in/animashaun-roheemot)  
